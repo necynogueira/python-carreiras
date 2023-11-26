@@ -1,1 +1,1 @@
-# python-carreiras
+print("hello word")
